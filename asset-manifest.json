@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KartikG/projects/Jiocinema/static/css/main.abf96ee6.css",
+    "main.js": "/KartikG/projects/Jiocinema/static/js/main.c1160bd1.js",
+    "static/media/FF.jpg": "/KartikG/projects/Jiocinema/static/media/FF.65f664510a647efa579f.jpg",
+    "index.html": "/KartikG/projects/Jiocinema/index.html",
+    "main.abf96ee6.css.map": "/KartikG/projects/Jiocinema/static/css/main.abf96ee6.css.map",
+    "main.c1160bd1.js.map": "/KartikG/projects/Jiocinema/static/js/main.c1160bd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf96ee6.css",
+    "static/js/main.c1160bd1.js"
+  ]
+}
